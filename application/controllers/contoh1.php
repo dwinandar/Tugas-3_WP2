@@ -4,8 +4,8 @@ class Contoh1 extends CI_Controller
     public function index()
     {
         echo "<h1>Perkenalkan</h1>";
-        echo "Nama saya Taufik Dwi Qurohman 
-              Saya tinggal di daerah Bojong  Gede
+        echo "Nama saya Ade Dwinandar Ritonga
+              Saya tinggal di daerah Depok
               olah raga yang saya sukai adalah
               Bulutangkis";
     }
